@@ -1,121 +1,93 @@
-icd_category,icd_code,icd_version,icd_desc,icd_duplicate
-cld,7707,9.0,PERINATAL CHR RESP DIS,0.0
-cld,P270,10.0,Wilson-Mikity syndrome,0.0
-cld,P271,10.0,Bronchopulmonary dysplasia originating in the perinatal period,0.0
-cld,P278,10.0,Other chronic respiratory diseases originating in the perinatal period,0.0
-cld,P279,10.0,Unspecified chronic respiratory disease originating in the perinatal period,0.0
-cmal_severe,7582,9.0,EDWARD-s SYNDROME,0.0
-cmal_severe,75672,9.0,Omphalocele (Begin 2009),0.0
-cmal_severe,74511,9.0,DOUBLE OUTLET RT VENTRIC,0.0
-cmal_severe,7581,9.0,PATAU-s SYNDROME,0.0
-cmal_severe,7467,9.0,HYPOPLAS LEFT HEART SYND,0.0
-cmal_severe,7566,9.0,ANOMALIES OF DIAPHRAGM,0.0
-cmal_severe,74510,9.0,COMPL TRANSPOS GREAT VES,0.0
-cmal_severe,7594,9.0,CONJOINED TWINS,0.0
-cmal_severe,7453,9.0,COMMON VENTRICLE,0.0
-cmal_severe,74741,9.0,TOT ANOM PULM VEN CONNEC,0.0
-cmal_severe,74300,9.0,CLINIC ANOPHTHALMOS NOS,0.0
-cmal_severe,7420,9.0,ENCEPHALOCELE,0.0
-cmal_severe,75310,9.0,CYSTIC KIDNEY DISEAS NOS (Begin 1990),0.0
-cmal_severe,7458,9.0,SEPTAL CLOSURE ANOM NEC,0.0
-cmal_severe,74519,9.0,TRANSPOS GREAT VESS NEC,0.0
-cmal_severe,7530,9.0,RENAL AGENESIS,0.0
-cmal_severe,75431,9.0,CONGEN HIP DISLOC- BILAT,0.0
-cmal_severe,7590,9.0,ANOMALIES OF SPLEEN,0.0
-cmal_severe,Q913,10.0,"Trisomy 18, unspecified",0.0
-cmal_severe,Q201,10.0,Double outlet right ventricle,0.0
-cmal_severe,Q917,10.0,"Trisomy 13, unspecified",0.0
-cmal_severe,Q606,10.0,Potters syndrome,0.0
-cmal_severe,Q203,10.0,Discordant ventriculoarterial connection,0.0
-cmal_severe,Q234,10.0,Hypoplastic left heart syndrome,0.0
-cmal_severe,Q204,10.0,Double inlet ventricle,0.0
-cmal_severe,Q8901,10.0,Asplenia (congenital),0.0
-cmal_severe,Q651,10.0,"Congenital dislocation of hip, bilateral",0.0
-cmal_severe,Q012,10.0,Occipital encephalocele,0.0
-cmal_severe,Q208,10.0,Other congenital malformations of cardiac chambers and connections,0.0
-cmal_severe,Q019,10.0,"Encephalocele, unspecified",0.0
-cmal_severe,Q111,10.0,Other anophthalmos,0.0
-cmal_severe,Q262,10.0,Total anomalous pulmonary venous connection,0.0
-cmal_severe,Q6100,10.0,"Congenital renal cyst, unspecified",0.0
-cmal_severe,Q619,10.0,"Cystic kidney disease, unspecified",0.0
-cmal_severe,Q790,10.0,Congenital diaphragmatic hernia,0.0
-cmal_severe,Q791,10.0,Other congenital malformations of diaphragm,0.0
-cmal_severe,Q792,10.0,Exomphalos,0.0
-cmal_severe,Q894,10.0,Conjoined twins,0.0
-ivh34,77214,9.0,INTRAVENT HEMORRHAGE GRADE IV (Begin 2001),0.0
-ivh34,77213,9.0,INTRAVENT HEMORRHAGE GRADE III (Begin 2001),0.0
-ivh34,P5222,10.0,"Intraventricular (nontraumatic) hemorrhage, grade 4, of newborn",0.0
-ivh34,P5221,10.0,"Intraventricular (nontraumatic) hemorrhage, grade 3, of newborn",0.0
-laparotomy,V6441,9.0,LAPAROSCOPIC SURGICAL PROCEDURE CONVERTED TO (Begin 2003),0.0
-laparotomy,Z5331,10.0,Laparoscopic surgical procedure converted to open procedure,0.0
-nec,7775,9.0,NECROT ENTEROCOLITIS NB (end 2008),0.0
-nec,77750,9.0,NEC ENTEROCOLTIS NB NOS (Begin 2008),0.0
-nec,77751,9.0,STG I NEC ENTEROCOL NB (Begin 2008),0.0
-nec,77752,9.0,STG II NEC ENTEROCOL NB (Begin 2008),0.0
-nec,77753,9.0,STG III NEC ENTEROCOL NB (Begin 2008),0.0
-nec,P771,10.0,Stage 1 necrotizing enterocolitis in newborn,0.0
-nec,P772,10.0,Stage 2 necrotizing enterocolitis in newborn,0.0
-nec,P773,10.0,Stage 3 necrotizing enterocolitis in newborn,0.0
-nec,P779,10.0,"Necrotizing enterocolitis in newborn, unspecified",0.0
-pregnancy_history_risk,V235,9.0,PREG W POOR REPRODUCT HX,0.0
-pregnancy_history_risk,O09291 ,,,
-pvl,7797,9.0,PREVENTRICULAR LEUKOMALACIA (Begin 2001),0.0
-pvl,85400,9.0,BRAIN INJURY NEC,0.0
-pvl,85401,9.0,BRAIN INJURY NEC-NO COMA,0.0
-pvl,85402,9.0,BRAIN INJ NEC-BRIEF COMA,0.0
-pvl,85403,9.0,BRAIN INJ NEC-MOD COMA,0.0
-pvl,85404,9.0,BRAIN INJ NEC-PROLN COMA,0.0
-pvl,85405,9.0,BRAIN INJ NEC-DEEP COMA,0.0
-pvl,85406,9.0,BRAIN INJ NEC-COMA NOS,0.0
-pvl,85409,9.0,BRAIN INJ NEC-CONCUSSION,0.0
-pvl,85410,9.0,BRAIN INJURY W OPN WND,0.0
-pvl,85411,9.0,OPN BRAIN INJ W/O COMA,0.0
-pvl,85412,9.0,OPN BRAIN INJ-BRIEF COMA,0.0
-pvl,85413,9.0,OPN BRAIN INJ-MOD COMA,0.0
-pvl,85414,9.0,OPN BRAIN INJ-PROLN COMA,0.0
-pvl,85415,9.0,OPN BRAIN INJ-DEEP COMA,0.0
-pvl,85416,9.0,OPEN BRAIN INJ-COMA NOS,0.0
-pvl,85419,9.0,OPN BRAIN INJ-CONCUSSION,0.0
-pvl,P912,10.0,Neonatal cerebral leukomalacia,0.0
-pvl,S06890A,10.0,"Other specified intracranial injury without loss of consciousness, initial encounter",0.0
-pvl,S069X0A,10.0,"Unspecified intracranial injury without loss of consciousness, initial encounter",0.0
-pvl,S061X0A,10.0,"Traumatic cerebral edema without loss of consciousness, initial encounter",0.0
-pvl,S069X2A,10.0,"Unspecified intracranial injury with loss of consciousness of 31 minutes to 59 minutes, initial encounter",0.0
-pvl,S069X1A,10.0,"Unspecified intracranial injury with loss of consciousness of 30 minutes or less, initial encounter",0.0
-pvl,S061X2A,10.0,"Traumatic cerebral edema with loss of consciousness of 31 minutes to 59 minutes, initial encounter",0.0
-pvl,S061X1A,10.0,"Traumatic cerebral edema with loss of consciousness of 30 minutes or less, initial encounter",0.0
-pvl,S061X3A,10.0,"Traumatic cerebral edema with loss of consciousness of 1 hour to 5 hours 59 minutes, initial encounter",0.0
-pvl,S069X3A,10.0,"Unspecified intracranial injury with loss of consciousness of 1 hour to 5 hours 59 minutes, initial encounter",0.0
-pvl,S061X4A,10.0,"Traumatic cerebral edema with loss of consciousness of 6 hours to 24 hours, initial encounter",0.0
-pvl,S069X4A,10.0,"Unspecified intracranial injury with loss of consciousness of 6 hours to 24 hours, initial encounter",0.0
-pvl,S061X5A,10.0,"Traumatic cerebral edema with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter",0.0
-pvl,S069X5A,10.0,"Unspecified intracranial injury with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter",0.0
-pvl,S069X6A,10.0,"Unspecified intracranial injury with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, initial encounter",0.0
-pvl,S061X7A,10.0,"Traumatic cerebral edema with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter",0.0
-pvl,S061X6A,10.0,"Traumatic cerebral edema with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, initial encounter",0.0
-pvl,S061X8A,10.0,"Traumatic cerebral edema with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, initial encounter",0.0
-pvl,S069X9A,10.0,"Unspecified intracranial injury with loss of consciousness of unspecified duration, initial encounter",0.0
-pvl,S061X9A,10.0,"Traumatic cerebral edema with loss of consciousness of unspecified duration, initial encounter",0.0
-rop345,36225,9.0,RETINOPH PREMATRSTAGE 3 (Begin 2008),0.0
-rop345,36226,9.0,RETINOPH PREMATR.STAGE 4 (Begin 2008),0.0
-rop345,36227,9.0,RETINOPH PREMATRSTAGE 5 (Begin 2008),0.0
-rop345,H35141,10.0,"Retinopathy of prematurity, stage 3, right eye",0.0
-rop345,H35142,10.0,"Retinopathy of prematurity, stage 3, left eye",0.0
-rop345,H35143,10.0,"Retinopathy of prematurity, stage 3, bilateral",0.0
-rop345,H35149,10.0,"Retinopathy of prematurity, stage 3, unspecified eye",0.0
-rop345,H35151,10.0,"Retinopathy of prematurity, stage 4, right eye",0.0
-rop345,H35152,10.0,"Retinopathy of prematurity, stage 4, left eye",0.0
-rop345,H35153,10.0,"Retinopathy of prematurity, stage 4, bilateral",0.0
-rop345,H35159,10.0,"Retinopathy of prematurity, stage 4, unspecified eye",0.0
-rop345,H35161,10.0,"Retinopathy of prematurity, stage 5, right eye",0.0
-rop345,H35162,10.0,"Retinopathy of prematurity, stage 5, left eye",0.0
-rop345,H35163,10.0,"Retinopathy of prematurity, stage 5, bilateral",0.0
-rop345,H35169,10.0,"Retinopathy of prematurity, stage 5, unspecified eye",0.0
-sepsis,78552,9.0,SEPTIC SHOCK (Begin 2003),0.0
-sepsis,77181,9.0,SEPTICEMIA [SEPSIS] OF NEWBORN (Begin 2002),0.0
-sepsis,99592,9.0,SYS INFLAM / INFECTI W ORGAN DYSFUNCTI (Begin 2002),0.0
-sepsis,P369,10.0,"Bacterial sepsis of newborn, unspecified",0.0
-sepsis,R6521,10.0,Severe sepsis with septic shock,0.0
-sepsis,P368,10.0,Other bacterial sepsis of newborn,0.0
-sepsis,P364,10.0,Sepsis of newborn due to Escherichia coli,0.0
-sepsis,R6520,10.0,Severe sepsis without septic shock,0.0
+icd_category,icd_code,icd_version,icd_desc,icd_duplicate,ccsr_category
+cld,7707,9,PERINATAL CHR RESP DIS,0,Other perinatal conditions
+cld,P270,10,Wilson-Mikity syndrome,0,Respiratory perinatal condition
+cld,P271,10,Bronchopulmonary dysplasia originating in the perinatal period,0,Respiratory perinatal condition
+cld,P278,10,Other chronic respiratory diseases originating in the perinatal period,0,Respiratory perinatal condition
+cld,P279,10,Unspecified chronic respiratory disease originating in the perinatal period,0,Respiratory perinatal condition
+hydrocephalus,G910,10,Communicating hydrocephalus,0,Other nervous system disorders (neither hereditary nor degenerative)
+hydrocephalus,G911,10,Obstructive hydrocephalus,0,Other nervous system disorders (neither hereditary nor degenerative)
+hydrocephalus,G912,10,(Idiopathic) normal pressure hydrocephalus,0,Other nervous system disorders (neither hereditary nor degenerative)
+hydrocephalus,G913,10,"Post-traumatic hydrocephalus, unspecified",0,Other nervous system disorders (neither hereditary nor degenerative)
+hydrocephalus,G914,10,Hydrocephalus in diseases classified elsewhere,0,Other nervous system disorders (neither hereditary nor degenerative)
+hydrocephalus,G919,10,"Hydrocephalus, unspecified",0,Other nervous system disorders (neither hereditary nor degenerative)
+hydrocephalus,Q039,10,"Congenital hydrocephalus, unspecified",0,Nervous system congenital anomalies
+hydrocephalus,Q051,10,Thoracic spina bifida with hydrocephalus,0,Nervous system congenital anomalies
+hydrocephalus,Q052,10,Lumbar spina bifida with hydrocephalus,0,Nervous system congenital anomalies
+hydrocephalus,Q054,10,Unspecified spina bifida with hydrocephalus,0,Nervous system congenital anomalies
+hydrocephalus,Q0702,10,Arnold-Chiari syndrome with hydrocephalus,0,Nervous system congenital anomalies
+ivh34,77213,9,INTRAVENT HEMORRHAGE GRADE III (Begin 2001),0,Other perinatal conditions
+ivh34,77214,9,INTRAVENT HEMORRHAGE GRADE IV (Begin 2001),0,Other perinatal conditions
+ivh34,P5221,10,"Intraventricular (nontraumatic) hemorrhage, grade 3, of newborn",0,Hemorrhagic and hematologic disorders of newborn
+ivh34,P5222,10,"Intraventricular (nontraumatic) hemorrhage, grade 4, of newborn",0,Hemorrhagic and hematologic disorders of newborn
+laparotomy,V6441,9,LAPAROSCOPIC SURGICAL PROCEDURE CONVERTED TO (Begin 2003),0,Residual codes; unclassified
+laparotomy,Z5331,10,Laparoscopic surgical procedure converted to open procedure,0,Other specified status
+nec,7775,9,NECROT ENTEROCOLITIS NB (end 2008),0,Other perinatal conditions
+nec,77750,9,NEC ENTEROCOLTIS NB NOS (Begin 2008),0,Other perinatal conditions
+nec,77751,9,STG I NEC ENTEROCOL NB (Begin 2008),0,Other perinatal conditions
+nec,77752,9,STG II NEC ENTEROCOL NB (Begin 2008),0,Other perinatal conditions
+nec,77753,9,STG III NEC ENTEROCOL NB (Begin 2008),0,Other perinatal conditions
+nec,P771,10,Stage 1 necrotizing enterocolitis in newborn,0,Neonatal digestive and feeding disorders
+nec,P772,10,Stage 2 necrotizing enterocolitis in newborn,0,Neonatal digestive and feeding disorders
+nec,P773,10,Stage 3 necrotizing enterocolitis in newborn,0,Neonatal digestive and feeding disorders
+nec,P779,10,"Necrotizing enterocolitis in newborn, unspecified",0,Neonatal digestive and feeding disorders
+nec_severe,77753,9,STG III NEC ENTEROCOL NB (Begin 2008),0,Other perinatal conditions
+nec_severe,P773,10,Stage 3 necrotizing enterocolitis in newborn,0,Neonatal digestive and feeding disorders
+noscomial,Y95,10,Nosocomial condition,0,"External cause codes: complications of medical and surgical care, initial encounter"
+pvl,7797,9,PREVENTRICULAR LEUKOMALACIA (Begin 2001),0,Other perinatal conditions
+pvl,85400,9,BRAIN INJURY NEC,0,Intracranial injury
+pvl,85401,9,BRAIN INJURY NEC-NO COMA,0,Intracranial injury
+pvl,85402,9,BRAIN INJ NEC-BRIEF COMA,0,Intracranial injury
+pvl,85403,9,BRAIN INJ NEC-MOD COMA,0,Intracranial injury
+pvl,85404,9,BRAIN INJ NEC-PROLN COMA,0,Intracranial injury
+pvl,85405,9,BRAIN INJ NEC-DEEP COMA,0,Intracranial injury
+pvl,85406,9,BRAIN INJ NEC-COMA NOS,0,Intracranial injury
+pvl,85409,9,BRAIN INJ NEC-CONCUSSION,0,Intracranial injury
+pvl,85410,9,BRAIN INJURY W OPN WND,0,Intracranial injury
+pvl,85411,9,OPN BRAIN INJ W/O COMA,0,Intracranial injury
+pvl,85412,9,OPN BRAIN INJ-BRIEF COMA,0,Intracranial injury
+pvl,85413,9,OPN BRAIN INJ-MOD COMA,0,Intracranial injury
+pvl,85414,9,OPN BRAIN INJ-PROLN COMA,0,Intracranial injury
+pvl,85415,9,OPN BRAIN INJ-DEEP COMA,0,Intracranial injury
+pvl,85416,9,OPEN BRAIN INJ-COMA NOS,0,Intracranial injury
+pvl,85419,9,OPN BRAIN INJ-CONCUSSION,0,Intracranial injury
+pvl,P912,10,Neonatal cerebral leukomalacia,0,Neonatal cerebral disorders
+pvl,S061X0A,10,"Traumatic cerebral edema without loss of consciousness, initial encounter",0,"Traumatic brain injury (TBI); concussion, initial encounter"
+pvl,S061X1A,10,"Traumatic cerebral edema with loss of consciousness of 30 minutes or less, initial encounter",0,"Traumatic brain injury (TBI); concussion, initial encounter"
+pvl,S061X2A,10,"Traumatic cerebral edema with loss of consciousness of 31 minutes to 59 minutes, initial encounter",0,"Traumatic brain injury (TBI); concussion, initial encounter"
+pvl,S061X3A,10,"Traumatic cerebral edema with loss of consciousness of 1 hour to 5 hours 59 minutes, initial encounter",0,"Traumatic brain injury (TBI); concussion, initial encounter"
+pvl,S061X4A,10,"Traumatic cerebral edema with loss of consciousness of 6 hours to 24 hours, initial encounter",0,"Traumatic brain injury (TBI); concussion, initial encounter"
+pvl,S061X5A,10,"Traumatic cerebral edema with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter",0,"Traumatic brain injury (TBI); concussion, initial encounter"
+pvl,S061X6A,10,"Traumatic cerebral edema with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, initial encounter",0,"Traumatic brain injury (TBI); concussion, initial encounter"
+pvl,S061X7A,10,"Traumatic cerebral edema with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter",0,"Traumatic brain injury (TBI); concussion, initial encounter"
+pvl,S061X8A,10,"Traumatic cerebral edema with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, initial encounter",0,"Traumatic brain injury (TBI); concussion, initial encounter"
+pvl,S061X9A,10,"Traumatic cerebral edema with loss of consciousness of unspecified duration, initial encounter",0,"Traumatic brain injury (TBI); concussion, initial encounter"
+pvl,S06890A,10,"Other specified intracranial injury without loss of consciousness, initial encounter",0,"Traumatic brain injury (TBI); concussion, initial encounter"
+pvl,S069X0A,10,"Unspecified intracranial injury without loss of consciousness, initial encounter",0,"Traumatic brain injury (TBI); concussion, initial encounter"
+pvl,S069X1A,10,"Unspecified intracranial injury with loss of consciousness of 30 minutes or less, initial encounter",0,"Traumatic brain injury (TBI); concussion, initial encounter"
+pvl,S069X2A,10,"Unspecified intracranial injury with loss of consciousness of 31 minutes to 59 minutes, initial encounter",0,"Traumatic brain injury (TBI); concussion, initial encounter"
+pvl,S069X3A,10,"Unspecified intracranial injury with loss of consciousness of 1 hour to 5 hours 59 minutes, initial encounter",0,"Traumatic brain injury (TBI); concussion, initial encounter"
+pvl,S069X4A,10,"Unspecified intracranial injury with loss of consciousness of 6 hours to 24 hours, initial encounter",0,"Traumatic brain injury (TBI); concussion, initial encounter"
+pvl,S069X5A,10,"Unspecified intracranial injury with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter",0,"Traumatic brain injury (TBI); concussion, initial encounter"
+pvl,S069X6A,10,"Unspecified intracranial injury with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, initial encounter",0,"Traumatic brain injury (TBI); concussion, initial encounter"
+pvl,S069X9A,10,"Unspecified intracranial injury with loss of consciousness of unspecified duration, initial encounter",0,"Traumatic brain injury (TBI); concussion, initial encounter"
+rop345,36225,9,RETINOPH PREMATRSTAGE 3 (Begin 2008),0,Retinal detachments; defects; vascular occlusion; and retinopathy
+rop345,36226,9,RETINOPH PREMATR.STAGE 4 (Begin 2008),0,Retinal detachments; defects; vascular occlusion; and retinopathy
+rop345,36227,9,RETINOPH PREMATRSTAGE 5 (Begin 2008),0,Retinal detachments; defects; vascular occlusion; and retinopathy
+rop345,H35141,10,"Retinopathy of prematurity, stage 3, right eye",0,Retinal and vitreous conditions
+rop345,H35142,10,"Retinopathy of prematurity, stage 3, left eye",0,Retinal and vitreous conditions
+rop345,H35143,10,"Retinopathy of prematurity, stage 3, bilateral",0,Retinal and vitreous conditions
+rop345,H35149,10,"Retinopathy of prematurity, stage 3, unspecified eye",0,Retinal and vitreous conditions
+rop345,H35151,10,"Retinopathy of prematurity, stage 4, right eye",0,Retinal and vitreous conditions
+rop345,H35152,10,"Retinopathy of prematurity, stage 4, left eye",0,Retinal and vitreous conditions
+rop345,H35153,10,"Retinopathy of prematurity, stage 4, bilateral",0,Retinal and vitreous conditions
+rop345,H35159,10,"Retinopathy of prematurity, stage 4, unspecified eye",0,Retinal and vitreous conditions
+rop345,H35161,10,"Retinopathy of prematurity, stage 5, right eye",0,Retinal and vitreous conditions
+rop345,H35162,10,"Retinopathy of prematurity, stage 5, left eye",0,Retinal and vitreous conditions
+rop345,H35163,10,"Retinopathy of prematurity, stage 5, bilateral",0,Retinal and vitreous conditions
+rop345,H35169,10,"Retinopathy of prematurity, stage 5, unspecified eye",0,Retinal and vitreous conditions
+shunt,V452,9,VENTRICULAR SHUNT STATUS,0,Other nervous system disorders
+shunt,Z982,10,Presence of cerebrospinal fluid drainage device,0,"Implant, device or graft related encounter"
+ventilation,V4611,9,RESPIRATOR DEPEND STATUS (Begin 2004),0,Respiratory failure; insufficiency; arrest (adult)
+ventilation,V462,9,OTHR DEPEND ON MACHINES/SUPPL OXYGEN (Begin 2002),0,Respiratory failure; insufficiency; arrest (adult)
+ventilation,Z9911,10,Dependence on respirator [ventilator] status,0,Other specified status
+ventilation,Z9981,10,Dependence on supplemental oxygen,0,Other specified status
