@@ -30,8 +30,8 @@ nec,P771,10,Stage 1 necrotizing enterocolitis in newborn,0,Neonatal digestive an
 nec,P772,10,Stage 2 necrotizing enterocolitis in newborn,0,Neonatal digestive and feeding disorders
 nec,P773,10,Stage 3 necrotizing enterocolitis in newborn,0,Neonatal digestive and feeding disorders
 nec,P779,10,"Necrotizing enterocolitis in newborn, unspecified",0,Neonatal digestive and feeding disorders
-nec_severe,77753,9,STG III NEC ENTEROCOL NB (Begin 2008),0,Other perinatal conditions
-nec_severe,P773,10,Stage 3 necrotizing enterocolitis in newborn,0,Neonatal digestive and feeding disorders
+nec3,77753,9,STG III NEC ENTEROCOL NB (Begin 2008),0,Other perinatal conditions
+nec3,P773,10,Stage 3 necrotizing enterocolitis in newborn,0,Neonatal digestive and feeding disorders
 noscomial,Y95,10,Nosocomial condition,0,"External cause codes: complications of medical and surgical care, initial encounter"
 pvl,7797,9,PREVENTRICULAR LEUKOMALACIA (Begin 2001),0,Other perinatal conditions
 pvl,85400,9,BRAIN INJURY NEC,0,Intracranial injury
