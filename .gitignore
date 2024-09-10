@@ -4,5 +4,3 @@ test.ipynb
 process_state.ipynb
 process_zip.ipynb
 setup.py
-data/icd/icd_mapping/
-data/icd/icd9to10_expt.csv

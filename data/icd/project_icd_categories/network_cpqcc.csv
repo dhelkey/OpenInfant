@@ -32,32 +32,10 @@ cmal_severe,Q792,10,Exomphalos,0,Musculoskeletal congenital conditions
 cmal_severe,Q917,10,"Trisomy 13, unspecified",0,Chromosomal abnormalities
 cmal_severe,Q913,10,"Trisomy 18, unspecified",0,Chromosomal abnormalities
 cmal_severe,Q894,10,Conjoined twins,0,Other specified and unspecified congenital anomalies
-hydrocephalus,G910,10,Communicating hydrocephalus,0,Other nervous system disorders (neither hereditary nor degenerative)
-hydrocephalus,G911,10,Obstructive hydrocephalus,0,Other nervous system disorders (neither hereditary nor degenerative)
-hydrocephalus,G912,10,(Idiopathic) normal pressure hydrocephalus,0,Other nervous system disorders (neither hereditary nor degenerative)
-hydrocephalus,G913,10,"Post-traumatic hydrocephalus, unspecified",0,Other nervous system disorders (neither hereditary nor degenerative)
-hydrocephalus,G914,10,Hydrocephalus in diseases classified elsewhere,0,Other nervous system disorders (neither hereditary nor degenerative)
-hydrocephalus,G919,10,"Hydrocephalus, unspecified",0,Other nervous system disorders (neither hereditary nor degenerative)
-hydrocephalus,Q039,10,"Congenital hydrocephalus, unspecified",0,Nervous system congenital anomalies
-hydrocephalus,Q051,10,Thoracic spina bifida with hydrocephalus,0,Nervous system congenital anomalies
-hydrocephalus,Q052,10,Lumbar spina bifida with hydrocephalus,0,Nervous system congenital anomalies
-hydrocephalus,Q054,10,Unspecified spina bifida with hydrocephalus,0,Nervous system congenital anomalies
-hydrocephalus,Q0702,10,Arnold-Chiari syndrome with hydrocephalus,0,Nervous system congenital anomalies
 ivh34,77213,9,INTRAVENT HEMORRHAGE GRADE III (Begin 2001),0,Other perinatal conditions
 ivh34,77214,9,INTRAVENT HEMORRHAGE GRADE IV (Begin 2001),0,Other perinatal conditions
 ivh34,P5221,10,"Intraventricular (nontraumatic) hemorrhage, grade 3, of newborn",0,Hemorrhagic and hematologic disorders of newborn
 ivh34,P5222,10,"Intraventricular (nontraumatic) hemorrhage, grade 4, of newborn",0,Hemorrhagic and hematologic disorders of newborn
-laparotomy,V6441,9,LAPAROSCOPIC SURGICAL PROCEDURE CONVERTED TO (Begin 2003),0,Residual codes; unclassified
-laparotomy,Z5331,10,Laparoscopic surgical procedure converted to open procedure,0,Other specified status
-nec,7775,9,NECROT ENTEROCOLITIS NB (end 2008),0,Other perinatal conditions
-nec,77750,9,NEC ENTEROCOLTIS NB NOS (Begin 2008),0,Other perinatal conditions
-nec,77751,9,STG I NEC ENTEROCOL NB (Begin 2008),0,Other perinatal conditions
-nec,77752,9,STG II NEC ENTEROCOL NB (Begin 2008),0,Other perinatal conditions
-nec,77753,9,STG III NEC ENTEROCOL NB (Begin 2008),0,Other perinatal conditions
-nec,P771,10,Stage 1 necrotizing enterocolitis in newborn,0,Neonatal digestive and feeding disorders
-nec,P772,10,Stage 2 necrotizing enterocolitis in newborn,0,Neonatal digestive and feeding disorders
-nec,P773,10,Stage 3 necrotizing enterocolitis in newborn,0,Neonatal digestive and feeding disorders
-nec,P779,10,"Necrotizing enterocolitis in newborn, unspecified",0,Neonatal digestive and feeding disorders
 nec3,77753,9,STG III NEC ENTEROCOL NB (Begin 2008),0,Other perinatal conditions
 nec3,P773,10,Stage 3 necrotizing enterocolitis in newborn,0,Neonatal digestive and feeding disorders
 noscomial,Y95,10,Nosocomial condition,0,"External cause codes: complications of medical and surgical care, initial encounter"
@@ -113,8 +91,6 @@ rop345,H35161,10,"Retinopathy of prematurity, stage 5, right eye",0,Retinal and 
 rop345,H35162,10,"Retinopathy of prematurity, stage 5, left eye",0,Retinal and vitreous conditions
 rop345,H35163,10,"Retinopathy of prematurity, stage 5, bilateral",0,Retinal and vitreous conditions
 rop345,H35169,10,"Retinopathy of prematurity, stage 5, unspecified eye",0,Retinal and vitreous conditions
-shunt,V452,9,VENTRICULAR SHUNT STATUS,0,Other nervous system disorders
-shunt,Z982,10,Presence of cerebrospinal fluid drainage device,0,"Implant, device or graft related encounter"
 surgery_indicated,3313,9,COMMUNICAT HYDROCEPHALUS,0,Other hereditary and degenerative nervous system conditions
 surgery_indicated,3314,9,OBSTRUCTIV HYDROCEPHALUS,0,Other hereditary and degenerative nervous system conditions
 surgery_indicated,3484,9,COMPRESSION OF BRAIN,0,Other nervous system disorders
@@ -473,7 +449,3 @@ surgery_indicated,P780,10,Perinatal intestinal perforation,0,Neonatal digestive 
 surgery_indicated,P7889,10,Other specified perinatal digestive system disorders,0,Neonatal digestive and feeding disorders
 surgery_indicated,P7881,10,Congenital cirrhosis (of liver),0,Neonatal digestive and feeding disorders
 surgery_indicated,P789,10,"Perinatal digestive system disorder, unspecified",0,Neonatal digestive and feeding disorders
-ventilation,V4611,9,RESPIRATOR DEPEND STATUS (Begin 2004),0,Respiratory failure; insufficiency; arrest (adult)
-ventilation,V462,9,OTHR DEPEND ON MACHINES/SUPPL OXYGEN (Begin 2002),0,Respiratory failure; insufficiency; arrest (adult)
-ventilation,Z9911,10,Dependence on respirator [ventilator] status,0,Other specified status
-ventilation,Z9981,10,Dependence on supplemental oxygen,0,Other specified status
